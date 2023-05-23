@@ -13,3 +13,28 @@ body{
 .navbar-container{
     background-color: #2F4F4F;
 }
+
+.about-container{
+    background-color: lightslategrey;
+}
+
+.about-col-8{
+    text-align: justify;
+}
+
+.about-profile{
+    height: 242px;
+    width: 257px;
+}
+
+.education-container{
+    background-color: peru;
+}
+
+.circle{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    text-align:center;
+}
